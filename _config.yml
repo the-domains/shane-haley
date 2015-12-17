@@ -1,0 +1,28 @@
+name: Shane Haley
+favicon: null
+layout_spectrum: 0.22492470988072455
+typography_spectrum: 0.9707429630216211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.27856368478387594
+  lightness: 0.20010082074441016
+  saturation: 0.2948589166626334
+  rhythmicContrast: 0.7691035689786077
+purpose: []
