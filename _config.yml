@@ -1,7 +1,7 @@
 name: Shane Haley
 favicon: null
-layout_spectrum: 0.22492470988072455
-typography_spectrum: 0.9707429630216211
+layout_spectrum: 0.2334
+typography_spectrum: 0.65967
 title: Shane Haley
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.27856368478387594
   lightness: 0.20010082074441016
   saturation: 0.2948589166626334
-  rhythmicContrast: 0.7691035689786077
+  rhythmicContrast: 0.75
 purpose: []
